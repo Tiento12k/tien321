@@ -1,0 +1,11 @@
+-p port1:port2      
+----- port1: congo local host
+----- port2: cong cua host ung dung
+
+docker tag public:latest public.ecr.aws/n8x2n2r0/public:latest
+
+docker tag <image id> public.ecr.aws/n8x2n2r0/public:<version of image will create>
+
+44f3e57bde28
+
+docker tag 44f3e57bde28 public.ecr.aws/n8x2n2r0/public:2
