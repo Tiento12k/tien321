@@ -1,0 +1,21 @@
+AZ-104 Exam Official Topics:
+Topic 1: Azure Identity Management and Management/ Configure Igure self-service password reset
+Topic 2: Manage group users and group properties/ Create group users and groups/ Configure joining Azure AD
+Topic 3: Provide access to Azure resources by specifying roles and memberships or resource groups/ Manage guest accounts
+Topic 4: Investment and Management Department/ Role-based access control management
+Topic 5: Explain registration tasks Manage multiple directories/ Configure resource locking
+Topic 6: Settings Manage device settings/ Apply bulk user update/ Manage Azure AD objects
+Topic 7: Manage Membership to configure cost management/ Create, manage, move resources, or remove resource group rotation groups
+Topic 8: Configure network access for storage accounts/ Storage implementation and management
+Topic 9: Configure Azure AD authentication for the storage account/ Create a group administration group
+Topic 10: Ure Azure Repository Replication Application/ Create and configure storage accounts
+Topic 11: Data Management Azure Storage/ Create a shared access signature/ Manage storage accounts
+Topic 12: Install and use Azure Storage Explorer/ Export from Azure functionality
+Topic 13: Create Azure files and Azure Blob storage/ Create and configure the Azure File Sync service
+Topic 14: Configure large binary digit storage layers/ Configure Igure Azure Big Data Storage
+Topic 15: Configure the VM for high availability and scalability/ Deploy and manage Azure account resources
+Topic 16: Automate the deployment and configuration of virtual machines/ High availability configuration
+Topic 17: Automate configuration management with extension-specific script extensions/ Create Azure file sharing
+Topic 18: Modify the Azure Resource Manager (ARM) template/ Create a VHD template. Deploy from template
+Topic 19: Moving virtual machines from one resource group to another/ Publish and create a metric group
+Topic 20: Create and configure K Azure Governorate Service (AKS)/ Create and configure the Service plan for the Plan application
